@@ -1,9 +1,11 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+
 import HomeScreen from './src/screens/home/home';
 import ToDoListScreen from './src/screens/tasks/tasks-list';
 import Info from './src/screens/info/info';
+
 import { Provider } from 'react-redux';
 import store from './src/store/store';
 import { StatusBar } from 'react-native';
