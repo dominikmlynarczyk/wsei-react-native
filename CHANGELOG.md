@@ -5,7 +5,34 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0] - 2020-05-26
 
+### Changed
+
+    - Add styles for Task list view
+    - Add styles tasks-add view
+    - Add styles for modal buttons
+
+### Added 
+
+    - Add dummy text for home screen
+    - Add task-item management
+
+## [0.8.5] - 2020-05-15
+
+### Added
+
+    - Add cancel button for task edit
+    - Option to remove many selected items by clicking on a dedicated button
+    - Add RouteParams
+    - Set defaultTodo key based on Date.now()
+
+## [0.7.0] - 2020-04-19
+
+### Changed
+
+    - README
+    - CHANGELOG
 
 ## [0.6.5] - 2020-04-18
 
