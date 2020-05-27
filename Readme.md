@@ -1,5 +1,12 @@
 # **WSEI ToDo Mobile App**
 
+This application was done during "mobile devices programming" classes at WSEI College. Project was created in React Native using Expo.
+
+## Demo screens
+
+|   Home	|      Tasklist	|                Info	|
+|:-:	|---	|---	|
+|   ![](img/home.jpg)	|   ![](img/tasklist.jpg)	|  ![](img/info.jpg) 	|
 ## **Folders Structure**
 
 - assets (images)
